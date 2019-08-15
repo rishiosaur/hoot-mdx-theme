@@ -1,0 +1,1 @@
+# hoot-mdx-theme
